@@ -1,0 +1,15 @@
+
+# Streamlit is the main library for the web app
+streamlit
+
+# Add specific libraries used in the app
+scikit-learn
+pandas
+numpy
+
+# Optional: Add any additional common libraries
+matplotlib
+seaborn
+
+# Include the Python version if applicable
+# python_version >= 3.8
